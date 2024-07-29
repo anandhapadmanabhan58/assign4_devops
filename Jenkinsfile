@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "abyantony85/c0895121-assign-4"
+    imagename = "padmanabhananandha58/c0894441-assign-4"
     registryCredential = 'dockerhub_121'
     dockerImage = ''
   }
